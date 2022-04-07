@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Abdul Fahmi Aziz**
 
-Saya seorang **Geek IT** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Geek IT** 
 
 Saya sekaranga berkuliah strata 1 di [Universitas Ibn Khaldun Bogor](https://uika-bogor.ac.id/).
 
