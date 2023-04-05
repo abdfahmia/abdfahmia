@@ -1,11 +1,8 @@
-# Halo semua! 
+# Halo everyone! 
 
-Perkenalkan nama saya **Abdul Fahmi Aziz**
-
-Saya seorang **Geek IT** 
-
-Saya sekaranga berkuliah strata 1 di [Universitas Ibn Khaldun Bogor](https://uika-bogor.ac.id/).
-
-Saya juga memiliki gelar suka tidur di [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdul-fahmi-aziz-a0908921b) ku ya.
+I'm **Abdul Fahmi Aziz**
+I am a final year student at the University of Ibn Khaldun Bogor majoring in Informatics
+Engineering. I have experience as a back end web developer with javascript language
+especially Node JS on several projects and also a graduate of Bangkit Academy 2022 with
+learning path cloud computing using GCP. 
+If you wanna to connect, here my [Linkedin](https://www.linkedin.com/in/abdfahmia) ku ya.
